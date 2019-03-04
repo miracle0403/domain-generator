@@ -1,6 +1,6 @@
 {
   "name": "domain-generator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple domain generator for custom domain search.",
   "main": "index.js",
   "scripts": {

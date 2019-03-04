@@ -10,7 +10,7 @@ USAGE
 
     //now generate the domains
 
-    domainlist = dg.forecast(domain, tld, function(err){
+    domainlist = dg.dg(domain, tld, function(err){
         if (err) throw err;
     }
 
